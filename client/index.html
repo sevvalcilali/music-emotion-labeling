@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Music Emotion Annotation</title>
+    <link rel="stylesheet" href="/client/styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="header">
+        <div>
+          <p class="eyebrow">Music Emotion Annotation</p>
+          <h1 id="song-counter" class="song-counter">SONG --/--</h1>
+          <p class="subtitle">
+            Katilimci kodunuzu girin, ruh halinizi secin ve sarki duygularini
+            isaretleyin.
+          </p>
+        </div>
+      </header>
+
+      <main class="content">
+        <section class="card">
+          <h2>Katilimci Bilgisi</h2>
+          <label class="field">
+            <span>Participant ID</span>
+            <input id="participant-id" type="text" placeholder="P01" required />
+          </label>
+        </section>
+
+        <section class="card">
+          <h2>SU ANKI RUH HALINIZ NEDIR?</h2>
+          <div id="mood-options" class="option-grid"></div>
+        </section>
+
+        <section class="card">
+          <h2>SU AN DINLEDIGINIZ SARKI</h2>
+          <div id="emotion-groups"></div>
+        </section>
+
+        <section class="card actions">
+          <button id="save-btn" class="primary">Kaydet</button>
+          <div id="status" class="status"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/client/app.js?v=3" defer></script>
+  </body>
+</html>

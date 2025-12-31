@@ -1,0 +1,59 @@
+{
+  "current_mood": [
+    "Pozitif",
+    "Negatif",
+    "Notr"
+  ],
+  "song_emotions": {
+    "Mutluluk_Nese": [
+      "Huzur",
+      "Memnuniyet",
+      "Umut",
+      "Cosku",
+      "Ic_rahatligi",
+      "Keyif",
+      "Tatmin"
+    ],
+    "Huzun_Uzuntu": [
+      "Ozlem",
+      "Yalnizlik",
+      "Kirginlik",
+      "Umutsuzluk",
+      "Melankoli",
+      "Icsel_bosluk",
+      "Kayip_hissi"
+    ],
+    "Ofke_Gerginlik": [
+      "Sinir",
+      "Gerginlik",
+      "Hayal_kirikligi",
+      "Isyan",
+      "Haksizliga_ugrama_hissi",
+      "Sikismislik"
+    ],
+    "Korku_Kaygi": [
+      "Kaygi",
+      "Endise",
+      "Tedirginlik",
+      "Belirsizlik_hissi",
+      "Tehdit_algisi",
+      "Huzursuzluk"
+    ],
+    "Sevgi_Sefkat": [
+      "Ask",
+      "Sefkat",
+      "Baglanma",
+      "Yakinlik",
+      "Ozveri",
+      "Romantizm",
+      "Guven"
+    ],
+    "Saskinlik_Hayret": [
+      "Hayret",
+      "Merak",
+      "Beklenmediklik_hissi",
+      "Duygusal_kararsizlik"
+    ],
+    "Hicbiri": []
+  }
+}

@@ -1,0 +1,23 @@
+song_index,song_id,song_title,participant_id,emotion,timestamp
+2,2,Spotify Track 2,sevval cilali,mood.pozitif,2025-12-31T09:11:23.697Z
+2,2,Spotify Track 2,sevval cilali,korku_kaygi.endise,2025-12-31T09:11:23.697Z
+2,2,Spotify Track 2,sevval cilali,mood.pozitif,2025-12-31T09:11:42.546Z
+2,2,Spotify Track 2,sevval cilali,mood.negatif,2025-12-31T09:13:20.843Z
+2,2,Spotify Track 2,sevval cilali,sevgi_sefkat.sefkat,2025-12-31T09:13:20.843Z
+2,2,Spotify Track 2,sevval cilali,saskinlik_hayret.merak,2025-12-31T09:13:20.843Z
+2,2,Spotify Track 2,kokşl,mood.pozitif,2025-12-31T09:14:06.226Z
+2,2,Spotify Track 2,22873,mood.negatif,2025-12-31T09:14:43.158Z
+2,2,Spotify Track 2,22873,mood.pozitif,2025-12-31T09:26:26.561Z
+2,2,Spotify Track 2,22873,mutluluk_nese.memnuniyet,2025-12-31T09:26:26.561Z
+2,2,Spotify Track 2,merhaba,mood.negatif,2025-12-31T09:27:21.524Z
+2,2,Spotify Track 2,merhaba,saskinlik_hayret.beklenmediklik_hissi,2025-12-31T09:27:21.524Z
+2,2,Spotify Track 2,sdfsdf,mood.negatif,2025-12-31T09:43:53.062Z
+2,2,Spotify Track 2,sdfsdf,saskinlik_hayret.merak,2025-12-31T09:43:53.062Z
+1,1,Sarki 1,şevoo,mood.pozitif,2025-12-31T09:58:43.617Z
+1,1,Sarki 1,şevoo,mutluluk_nese.memnuniyet,2025-12-31T09:58:43.617Z
+1,1,Sarki 1,şevoo,mood.negatif,2025-12-31T09:59:39.999Z
+1,1,Sarki 1,şevoo,mutluluk_nese.umut,2025-12-31T09:59:39.999Z
+1,1,Sarki 1,diloo,mood.pozitif,2025-12-31T10:09:16.193Z
+1,1,Sarki 1,diloo,mutluluk_nese.huzur,2025-12-31T10:09:16.193Z
+3,3,Sarki 3,xccf,mood.pozitif,2025-12-31T10:16:35.129Z
+3,3,Sarki 3,xccf,saskinlik_hayret.merak,2025-12-31T10:16:35.129Z
